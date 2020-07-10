@@ -1,2 +1,6 @@
 /#source
 *.config
+footer.html
+header.html
+js.html
+*.kit
